@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* body {
+  background-color: var(--purple-white);
+} */
+
+body {
+  background-color: var(--blue-dark);
+}
+
+:root {
+  --main-color: #417a47;
+  --secundary-color: #8a7de9;
+  --accent-color: #ffce58;
+  --aux-green-1: #3d8e51 ;
+  --aux-green-2: #5db96e;
+  --aux-purple-1: #a78fe5;
+  --aux-yellow-1: #fffc7b;
+  --purple-white: #233dff;
+  --blue-dark:  #050a30;
+}

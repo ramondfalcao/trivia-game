@@ -1,0 +1,13 @@
+.header-quiz {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10px;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.header-profile{
+  border-radius: 50%;
+}
