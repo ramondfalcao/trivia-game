@@ -2,6 +2,7 @@
   "name": "trivia-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ramondfalcao.github.io/trivia-game",
   "engines": {
     "node": "16"
   },
@@ -20,6 +21,8 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "cy": "cypress run",
     "cy:open": "cypress open",
     "start": "react-scripts start",
@@ -60,6 +63,7 @@
     "eslint-plugin-react-hooks": "4.2.0",
     "eslint-plugin-react-redux": "3.3.0",
     "eslint-plugin-sonarjs": "0.5.0",
+    "gh-pages": "^4.0.0",
     "jest-localstorage-mock": "2.4.3",
     "mocha": "^7.2.0",
     "mochawesome": "^6.1.1",
