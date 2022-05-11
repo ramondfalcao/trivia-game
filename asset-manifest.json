@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/trivia-game/static/css/main.453f2884.chunk.css",
+    "main.js": "/trivia-game/static/js/main.ade99aaf.chunk.js",
+    "main.js.map": "/trivia-game/static/js/main.ade99aaf.chunk.js.map",
+    "runtime-main.js": "/trivia-game/static/js/runtime-main.4bc9de50.js",
+    "runtime-main.js.map": "/trivia-game/static/js/runtime-main.4bc9de50.js.map",
+    "static/js/2.6be9b1d5.chunk.js": "/trivia-game/static/js/2.6be9b1d5.chunk.js",
+    "static/js/2.6be9b1d5.chunk.js.map": "/trivia-game/static/js/2.6be9b1d5.chunk.js.map",
+    "index.html": "/trivia-game/index.html",
+    "precache-manifest.86ddd8062fd11d9f77dd5e0a07630a60.js": "/trivia-game/precache-manifest.86ddd8062fd11d9f77dd5e0a07630a60.js",
+    "service-worker.js": "/trivia-game/service-worker.js",
+    "static/css/main.453f2884.chunk.css.map": "/trivia-game/static/css/main.453f2884.chunk.css.map",
+    "static/js/2.6be9b1d5.chunk.js.LICENSE.txt": "/trivia-game/static/js/2.6be9b1d5.chunk.js.LICENSE.txt",
+    "static/media/happy.gif": "/trivia-game/static/media/happy.bd98d43a.gif",
+    "static/media/logoBlue.svg": "/trivia-game/static/media/logoBlue.29b72877.svg",
+    "static/media/timerImg.svg": "/trivia-game/static/media/timerImg.001dc1c0.svg",
+    "static/media/tristeza.gif": "/trivia-game/static/media/tristeza.719377f2.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bc9de50.js",
+    "static/js/2.6be9b1d5.chunk.js",
+    "static/css/main.453f2884.chunk.css",
+    "static/js/main.ade99aaf.chunk.js"
+  ]
+}
