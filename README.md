@@ -22,7 +22,7 @@ Desenvolvemos um jogo de perguntas e respostas baseado no jogo Trivia (tipo um s
 
 # Habilidades
 
-Nesse projeto, fomos capaz de:
+Nesse projeto, fomos capazes de:
 
 - Criar um store Redux em aplicações React
 
@@ -46,7 +46,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Redux](https://redux.js.org/)
 
 ## Instruções para abrir a aplicação
-[Link Da Aplicação](https://ramondfalcao.github.io/trybe-wallet/)
+[Link Da Aplicação](https://ramondfalcao.github.io/trivia-game/)
 
 1. Clone o repositório
   * `git clone git@github.com:ramondfalcao/trivia-game.git`
